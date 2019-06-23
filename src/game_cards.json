@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Cat 1",
+    "image": "http://pngimg.com/uploads/cat/cat_PNG50550.png",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Cat 2",
+    "image": "http://pngimg.com/uploads/cat/cat_PNG50549.png",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Cat 3",
+    "image": "http://pngimg.com/uploads/cat/cat_PNG50548.png",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Cat 4",
+    "image": "http://pngimg.com/uploads/cat/cat_PNG50547.png",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Cat 5",
+    "image": "http://pngimg.com/uploads/cat/cat_PNG50546.png",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Cat 6",
+    "image": "http://pngimg.com/uploads/cat/cat_PNG50545.png",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Cat 7",
+    "image": "http://pngimg.com/uploads/cat/cat_PNG50543.png",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Cat 8",
+    "image": "http://pngimg.com/uploads/cat/cat_PNG50542.png",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Cat 9",
+    "image": "http://pngimg.com/uploads/cat/cat_PNG50529.png",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Cat 10",
+    "image": "http://pngimg.com/uploads/cat/cat_PNG50531.png",
+    "count": 0
+  }
+]

@@ -1,0 +1,11 @@
+.wrapper {
+  padding-top: 10%;
+  background: url('https://i.gifer.com/4MES.gif');
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 20px;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+}
